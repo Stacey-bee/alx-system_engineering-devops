@@ -8,3 +8,4 @@ file includes script that display current directory contents
 file includes script that creates a directory within a directory
 file includes script that moves file Betty from one directory to another
 file includes script that deletes Betty
+file includes script that deletes holberton directory
