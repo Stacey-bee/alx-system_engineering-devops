@@ -5,3 +5,4 @@ file includes script that changes the working directory to the user’s home dir
 file includes script that displays current directory content long format
 file includes script that display current directory contents, including hidden files
 file includes script that display current directory contents
+file includes script that creates a directory within a directory
