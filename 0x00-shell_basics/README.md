@@ -10,3 +10,4 @@ file includes script that moves file Betty from one directory to another
 file includes script that deletes Betty
 file includes script that deletes holberton directory
 file includes script for changing directory to previous one
+file includes script that lists all files including hidden ones
