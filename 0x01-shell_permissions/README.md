@@ -11,3 +11,4 @@ file includes scripts that sets various permissions to a file
 file includes script that sets the mode of the file 
 file includes script that sets the mode of the file hello the same as olleh’s mode
 file includes script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
+file includes script that creates a directory called dir_holberton with permissions 751 for the working directory
