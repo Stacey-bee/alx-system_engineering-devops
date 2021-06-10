@@ -9,3 +9,4 @@ file includes script that adds execute permission to the owner and the group own
 file includes script that adds execution permission to the owner, the group owner and the other users
 file includes scripts that sets various permissions to a file
 file includes script that sets the mode of the file 
+file includes script that sets the mode of the file hello the same as olleh’s mode
