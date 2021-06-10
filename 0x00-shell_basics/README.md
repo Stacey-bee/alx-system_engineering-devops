@@ -6,3 +6,4 @@ file includes script that displays current directory content long format
 file includes script that display current directory contents, including hidden files
 file includes script that display current directory contents
 file includes script that creates a directory within a directory
+file includes script that moves file Betty from one directory to another
