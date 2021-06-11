@@ -18,3 +18,4 @@ file includes script that moves all files beginning with an uppercase letter to 
 file includes script that deletes all files in the current working directory that end with the character ~
 file includes script that creates the directories welcome/, welcome/to/ and welcome/to/holberton in the current directory
 file includes command that lists all the files and directories of the current directory, separated by commas
+magic file holberton.mgc that can be used with the command file to detect Holberton data files
