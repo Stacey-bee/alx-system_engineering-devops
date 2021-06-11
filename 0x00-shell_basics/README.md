@@ -14,3 +14,4 @@ file includes script that lists all files including hidden ones
 file includes script that prints the type of the file named
 file includes script that creates a symbolic link
 file icnludes scripts for copying html files
+file includes script that moves all files beginning with an uppercase letter to the directory /tmp/u
