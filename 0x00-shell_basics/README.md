@@ -15,3 +15,4 @@ file includes script that prints the type of the file named
 file includes script that creates a symbolic link
 file icnludes scripts for copying html files
 file includes script that moves all files beginning with an uppercase letter to the directory /tmp/u
+file includes script that deletes all files in the current working directory that end with the character ~
