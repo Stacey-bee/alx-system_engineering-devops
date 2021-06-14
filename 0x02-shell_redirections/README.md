@@ -4,3 +4,4 @@ file contains a script that displays a confused smiley
 file contains script that displays  the content of the /etc/passwd file
 file contains script that displays the content of 2 files
 file contains script that displays the last 10 lines of /etc/passwd
+file contains script that displays the first 10 lines of /etc/passwd
