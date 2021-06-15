@@ -6,3 +6,4 @@ file contains script that displays the content of 2 files
 file contains script that displays the last 10 lines of /etc/passwd
 file contains script that displays the first 10 lines of /etc/passwd
 file contains script that displays the third line of the file 
+file contains a shell script that creates a file named exactly \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:) containing the text Holberton School ending by a new line.
