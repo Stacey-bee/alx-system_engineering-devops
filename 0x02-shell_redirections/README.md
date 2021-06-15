@@ -22,4 +22,4 @@ file contains script that replaces all characters A and c from input to Z and e 
 file contains script that removes all letters c and C from input.
 file contains a script that reverses inputs
 file contains script that displays all users and their home directories, sorted by users
-
+file contains script that finds all empty files and directories in the current directory and all sub-directories
