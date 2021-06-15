@@ -7,3 +7,4 @@ file contains script that displays the last 10 lines of /etc/passwd
 file contains script that displays the first 10 lines of /etc/passwd
 file contains script that displays the third line of the file 
 file contains a shell script that creates a file named exactly \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:) containing the text Holberton School ending by a new line.
+file contains script that writes into the file ls_cwd_content the result of the command ls -la
