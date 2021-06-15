@@ -7,3 +7,4 @@ file 4-global_variables has script that lists environment variables
 file 5-local_variables has script that lists all local variables and environment variables, and functions
 file 6-create_local_variable has script that creates a new local variable
 file 7-create_global_variable has script that creates a new global variable
+file 8-true_knowledge script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE
