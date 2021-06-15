@@ -15,3 +15,4 @@ file 12-combinations has script that prints all possible combinations of two let
 file 13-print_float has script that prints a number with two decimal places
 file 100-decimal_to_hexadecimal has script that converts a number from base 10 to base 16
 file 101-rot13 has script that encodes and decodes text using the rot13 encryption. Assume ASCII
+file 102-odd has script that prints every other line from the input, starting with the first line
