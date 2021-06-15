@@ -12,3 +12,4 @@ file 9-divide_and_rule has script that prints the result of POWER divided by DIV
 file 10-love_exponent_breath has  script that displays the result of BREATH to the power LOVE
 file 11-binary_to_decimal has script that converts a number from base 2 to base 10
 file 12-combinations has script that prints all possible combinations of two letters, except oo
+file 13-print_float has script that prints a number with two decimal places
