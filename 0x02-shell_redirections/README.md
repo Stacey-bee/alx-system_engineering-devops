@@ -10,3 +10,4 @@ file contains a shell script that creates a file named exactly \*\\'"Holberton S
 file contains script that writes into the file ls_cwd_content the result of the command ls -la
 file contains script that duplicates the last line of the file iacta
 file contains script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
+file contains script that counts the number of directories and sub-directories in the current directory
