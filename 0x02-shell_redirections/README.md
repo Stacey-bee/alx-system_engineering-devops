@@ -11,3 +11,4 @@ file contains script that writes into the file ls_cwd_content the result of the 
 file contains script that duplicates the last line of the file iacta
 file contains script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
 file contains script that counts the number of directories and sub-directories in the current directory
+fille contains that displays the 10 newest files in the current directory
