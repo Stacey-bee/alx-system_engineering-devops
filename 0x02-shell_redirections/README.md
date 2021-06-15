@@ -20,4 +20,5 @@ file contains script that displays all the lines in the file /etc/passwd that do
 file contains script that displays all lines of the file /etc/ssh/sshd_config starting with a letter
 file contains script that replaces all characters A and c from input to Z and e respectively
 file contains script that removes all letters c and C from input.
+file contains a script that reverses inputs
 
