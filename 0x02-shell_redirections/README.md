@@ -23,3 +23,4 @@ file contains script that removes all letters c and C from input.
 file contains a script that reverses inputs
 file contains script that displays all users and their home directories, sorted by users
 file contains script that finds all empty files and directories in the current directory and all sub-directories
+file contains script  that lists all the files with a .gif extension in the current directory and all its sub-directorie
