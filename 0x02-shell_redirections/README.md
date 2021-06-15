@@ -14,3 +14,4 @@ file contains script that counts the number of directories and sub-directories i
 file contains that displays the 10 newest files in the current directory
 file contains script that takes a list of words as input and prints only words that appear exactly once
 file contains script that displays lines containing the pattern “root” from the file /etc/passwd
+file contains sript that displays the number of lines that contain the pattern “bin” in the file /etc/passwd
