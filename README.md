@@ -1,2 +1,1 @@
-#!/bin/bash
-Mastering shell basics
+# Mastering shell basics
